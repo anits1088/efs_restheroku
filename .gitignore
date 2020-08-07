@@ -1,0 +1,9 @@
+
+*.pyc
+*~
+__pycache__
+venv
+efs_rest/db.sqlite3
+/static
+local_settings.py
+.DS_Store
